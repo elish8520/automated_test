@@ -1,8 +1,7 @@
-search index,search content,retuen index
-0,Maria Anders,Germany
-0,Alfreds Futterkiste,Mexico
-0,Germany,Austria
-1,Francisco Chang ,UK
-1,"Mexico
-",Canada
-,,
+0,Alfreds Futterkiste,3,Germany
+1,Centro comercial Moctezuma,3,Mexico
+2,Ernst Handel,3,Austria
+3,Island Trading,3,UK
+4,Laughing Bacchus Winecellars,3,Canada
+5,Magazzini Alimentari Riuniti,3,Italy
+
